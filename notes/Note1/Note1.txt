@@ -1,0 +1,53 @@
+//LESS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO ><
+
+1 - Create player
+	
+	1.0 - Importing the assets. DONE
+	1.1 - Creating the player object and using his sprite. DONE
+	1.2 - Moving with W A S D and "setas" in the step. DONE
+	1.4 - Be better the moving player configuration. DONE
+
+2 - Changing the room dimensions and changing de view/viewport of the room.
+
+	2.0 - Creating a viewport camera for the game.
+	2.1 - Changing the dimensions for the view be big and the viewport small. DONE.
+	
+3 - SHOOTING
+
+	3.0 - Importing all the assets. DONE
+	3.1 - Creating the object. DONE
+	3.2 - Tiro ir para cima. DONE.
+	3.4 - Making the player shoot after click "space". DONE
+	3.5 - Create an effect. DONE
+		3.5.1 - Born the effect as big and after let him small. DONE
+	3.6 - Destroy the shoot after get out the screen. DONE
+	3.7 - Destroy the shoot after hit the enemy. DONE
+	3.8 - Creat shoot impact.
+	3.9 - Giving a special style in the shoot.
+	
+	
+4 - ENEMIES
+	
+	4.1 - Import all of the assets. DONE
+	4.2 - Creating the object. DONE
+	4.3 - Put him down  after start. DONE
+	4.5 - Importing the assets of enemies shoot. DONE
+	4.6 - Creating the shoot object. DONE
+	4.7 - Shoot goes down. DONE
+	4.8 - Shoot have a nice effect when born. DONE
+	4.5 - Enemies can shoot. DONE
+	4.6 - Changed de shoot position. DONE
+	4.7 - Making the obj_shoot_impact disapear after hit the enemy. DONE
+	4.8 - Making the obj_shoot_impact disapear after destroyed.DONE
+	4.9 - Enemies shoot hit the player and disapear [they disapear after get out of room (destroy)]. DONE
+	5.0 - Destroy enemy after shooted by player. DONE
+	5.1 - Destroy the enemy after get out the room. DONE
+	
+	
+5 - BACKGROUND
+
+	1.0 - Added background and added an vertical animation. DONE
+	1.1 - Added a parallax effect. DONE
+	
+	
+	
